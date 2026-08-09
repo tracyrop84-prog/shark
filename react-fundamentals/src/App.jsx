@@ -122,12 +122,12 @@ function App(){
 }
 */
 //import Dictionary from "../Dictionary/index.js/Dictionary";
-import NameTracker from "./components/NameTracker";
+import Users from "./dataFetching/Users";
 //import StudentManager from "./components/state/studentManager/StudentManager";
 function App() {
   return (
     <>
-      <NameTracker/>
+      <Users/>
     </>
   );
 }
