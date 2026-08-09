@@ -1,0 +1,14 @@
+.highlight {
+  background-color: blanchedalmond;
+  font-size: large;
+  padding: auto;
+  margin-top: auto;
+  border-radius: 0%;
+}
+.hidden {
+  display: none;
+}
+.darkmode {
+  background-color: black;
+  color: white;
+}
