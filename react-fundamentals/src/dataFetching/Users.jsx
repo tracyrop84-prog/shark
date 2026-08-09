@@ -6,8 +6,16 @@ function Users() {
   const [users, setUsers] = useState([]);
   //Fetching data
   useEffect(() => {
-    axios.get("https://randomuser.me/api/")
-    .then((response)=>{setUsers(response.data.results)})
+    const getUsers=async()=>{
+
+      try{
+const response= await axios.get("https://randomuser.me/api/")
+setUsers(response.data.results)
+      }catch(error){console.log(error)}
+
+    }
+    
+    getUsers()
     
   }, []);
   return (
