@@ -1,0 +1,7 @@
+tracy, nutrition
+hella, english
+boyd,spanish
+henry,maths
+peggy,kiswahili
+lawrence,accounting
+alphonce,computer

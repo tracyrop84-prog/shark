@@ -1,0 +1,36 @@
+INFO:root:Application started
+INFO:root:Application started
+WARNING:root:something might be wrong
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Registered student: henry
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Registered student: peggy
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Registered student: lawrence
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+INFO:root:Registered student: alphonce
+INFO:root:Application started
+WARNING:root:something might be wrong
+ERROR:root:could not save student data
+ERROR:root:could not save student data: [Errno 2] No such file or directory: '/this/folder/does/not/exist/students.txt'
+INFO:root:Registered student: traci
